@@ -1,4 +1,48 @@
 body {
-	background-color: white;
-	color: black;
+	background-color: #343434;
+	background-image: url('main-bg.png');
+	color: #fefefe;
+}
+#celebration1 {
+	background-image: url('celeb1.png');
+}
+#celebration2 {
+	background-image: url('celeb2.png');
+}
+#celebration3 {
+	background-image: url('celeb3.png');
+}
+.details {
+	list-style: none;
+	text-align: center;
+}
+#events {
+	bottom: 10em;
+	font-size: large;
+	left: 2em;
+	position: absolute;
+}
+footer {
+}
+.gold, .when {
+	color: #beb767;
+}
+h1, h2, h3 {
+	display: none;
+}
+#main {
+}
+#registration {
+	bottom: 5em;
+	font-size: x-large;
+	position: absolute;
+	right: 15em;
+}
+.where, .white {
+	color: #fefefe;
+}
+#w3c {
+	left: 1.0em;
+	bottom: 0em;
+	position: absolute;
 }
